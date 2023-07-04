@@ -1,0 +1,20 @@
+5090 [Test worker] INFO  com.ebay.fw.AppManager -- Tests start in Chrome browser
+8030 [Test worker] INFO  com.ebay.fw.AppManager -- Current url is https://www.ebay.de/
+8577 [Test worker] INFO  com.ebay.fw.MyListener -- Before method finds element----> By.xpath: (//a[.='Elektronik'])[1]
+8739 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (238, 118)
+10593 [Test worker] INFO  com.ebay.fw.MyListener -- Before method finds element----> By.cssSelector: .b-visualnav__tile:nth-child(1)
+10714 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (244, 643)
+13895 [Test worker] INFO  com.ebay.fw.MyListener -- Before method finds element----> By.cssSelector: .b-visualnav__tile:nth-child(1)
+14223 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (244, 287)
+16933 [Test worker] INFO  com.ebay.fw.MyListener -- Before method finds element----> By.cssSelector: .s-item:nth-child(2) h3
+17680 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (500, 2601)
+17717 [Test worker] INFO  com.ebay.fw.MyListener -- Before method finds element----> By.id: gh-ac
+17781 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (257, 49)
+18049 [Test worker] INFO  com.ebay.fw.MyListener -- Before method finds element----> By.id: gh-ac
+18151 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (257, 49)
+18313 [Test worker] INFO  com.ebay.fw.MyListener -- Before method finds element----> By.id: gh-ac
+18414 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (257, 49)
+18999 [Test worker] INFO  com.ebay.fw.MyListener -- Before method finds element----> By.id: gh-btn
+19069 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (1010, 47)
+19633 [Test worker] INFO  com.ebay.fw.MyListener -- Before method finds element----> By.xpath: //ul/li/div/div[2]/a/div/span
+23162 [Test worker] INFO  com.ebay.fw.MyListener -- Location of element is (509, 254)
